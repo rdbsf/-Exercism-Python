@@ -1,0 +1,8 @@
+.vscode
+.exercisn
+.DS_Store
+__pycache__
+.pytest_cache
+
+hello-world
+
